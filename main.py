@@ -4,3 +4,4 @@ def soma (a,b):
 def diminuir (a,b):
     return a - b
 
+SENHA = "123321"
